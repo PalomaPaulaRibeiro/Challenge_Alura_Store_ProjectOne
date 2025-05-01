@@ -100,30 +100,77 @@ Jupyter/Google Colab
 
 * * *
 
-### Resumindo
 
-Análise Geral e Recomendação Comercial
+ ### **Análise Geral e Recomendação Comercial**
 
 Após avaliar o faturamento, categorias de vendas, avaliação dos clientes, frete médio e desempenho dos produtos em cada loja, podemos traçar o seguinte cenário:
 
-1. Loja com maior faturamento: A loja 1 se destaca em receita, o que indica uma boa aceitação no mercado. Vale a pena continuar investindo nela, melhorando ainda mais o atendimento e logística.
-  
-2. Categorias mais vendidas: A categoria de Roupas lidera nas vendas. Reforçar o estoque e promoções desse segmento pode aumentar ainda mais o faturamento.
-  
-3. Avaliação dos clientes: A loja com melhor avaliação deve ser usada como modelo de boas práticas (atendimento, entrega, experiência de compra). Já a loja com pior avaliação precisa de ações corretivas urgentes.
-  
-4. Frete médio: A loja 1 apresentou frete médio mais alto. Isso pode afetar a conversão de vendas. Avaliar parceiros logísticos ou subsidiar parte do frete pode melhorar os resultados.
-  
-5. Produtos mais e menos vendidos: Produtos que vendem pouco devem ser reavaliados ou retirados do catálogo para abrir espaço para itens mais rentáveis.
+ #### 📌Loja1 do grupo Alura Store apresentou o melhor desempenho geral
 
-   ![ava](https://github.com/user-attachments/assets/cb1200b2-3f7b-4595-a5f4-77226dc544b5)![fatloja](https://github.com/user-attachments/assets/7bc74917-338b-45e9-92f0-a9d330e84e18)
+ Análise Estratégica – Loja 1 (RJ) 
 
-  
-
-* * *
+📈Loja com maior faturamento: A loja 1 se destaca em receita, o que indica uma boa aceitação no mercado. Vale a pena continuar investindo nela, melhorando ainda mais o atendimento e logística.
 
 
-## 📊Decisão recomendada ao Sr. João Mantenha a operação nas quatro lojas, mas com estratégias personalizadas para cada uma.
+Categoria mais forte: Móveis (465 vendas)
+
+Categoria mais fraca: utilidades domesticas (171 vendas)
+
+
+ #### 📌Loja4 do grupo Alura Store apresentou um baixo desempenho geral 
+
+ Análise Estratégica – Loja 4 (MG) 
+
+📉Loja com menor faturamento:baixo diante das outras lojas, avaliação média dos clientes: 4.0 (aceitável, porém pode melhorar), frete baixo
+
+Categoria mais forte: Móveis (480 vendas)
+
+Categoria mais fraca: Instrumentos musicais (170 vendas)
+
+
+##### ⚙️ Recomendação estratégica:
+
+1. Investir em estratégias de fortalecimento (móveis):
+
+Ampliar mix de produtos na categoria de móveis.
+Investir em campanhas promocionais sazonais e kits com produtos complementares.
+
+2. Avaliar os feedbacks específicos dessa categoria para entender o que está funcionando.
+
+Identificar se há falta de variedade ou visibilidade no site.
+
+Parcerias com escolas de música ou influenciadores do segmento podem gerar alcance.
+
+3. Melhoria na avaliação média (4,00):
+
+Implementar pesquisas de satisfação logo após a entrega.
+
+Responder ativamente às avaliações negativas com soluções rápidas.
+
+Criar um programa de fidelidade ou brindes surpresa para clientes.
+
+Trabalhar no encantamento do cliente (para elevar a nota acima de 4,3).
+
+4. Reduzir ou otimizar custos com frete para maior competitividade.
+Negociar com transportadoras ou usar hubs logísticos regionais.
+
+Oferecer frete grátis acima de determinado valor para incentivar compras maiores.
+
+Exibir o prazo e o custo de frete já na página do produto para transparência.
+
+***
+Essas ações podem ser implementadas em fases, priorizando as que têm impacto mais direto no curto prazo, como campanhas de marketing e ajustes no frete.
+
+Embora o faturamento total da loja 4 seja baixo diante das outras lojas, a diferença entre categorias revela um desequilíbrio na performance dos produtos. A média de avaliação sugere que a loja está cumprindo seu papel, mas há margem para encantamento e fidelização.
+
+
+![Captura de tela 2025-05-01 110525](https://github.com/user-attachments/assets/0161c25f-0f29-46a5-86ea-e6a058a36a15) ![Captura de tela 2025-05-01 110200](https://github.com/user-attachments/assets/e1689977-ecdf-45cc-bc17-d8009d6439bb)
+
+
+***
+
+✅ Decisão recomendada ao Sr. João
+Mantenha a operação nas quatro lojas, mas com estratégias personalizadas para cada uma.
 
 Invista mais na loja de maior desempenho e melhore a logística da loja com frete alto e baixa avaliação.
 
@@ -131,9 +178,9 @@ Foque nas categorias de maior venda e otimize o mix de produtos com base nos dad
 
 Utilize os insights como guia de marketing e estoque.
 
-As análises foram feitas com Python e Matplotlib, gerando gráficos claros e objetivos.
+📊 Caso o Sr. João queira vender uma das lojas, a loja 4 é ideal para se vender, porem pode se adotar outras estratégias como mencionadas á cima.
 
-* * *
+* * * 
 📌Autora
 
 Paloma Ribeiro– Apaixonada por dados e transformação digital!
