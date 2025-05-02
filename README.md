@@ -5,13 +5,10 @@ Este projeto tem como objetivo avaliar e comparar o desempenho de quatro lojas o
 * * *
 
 1. ## 💲Faturamento Total por Loja
-  
-
-Gráfico de barras exibe o faturamento de cada loja.Conclusão:
 
 Loja com maior faturamento: Loja 1
 
-Se o objetivo é alto faturamento, vale a pena vender na Loja 1.
+Se o objetivo é rentabilidade, compreende-se apartir do grafico apresentado, que a loja 1 oferece maior desempenho.
 
 
 ![alurastorefaturamento](https://github.com/user-attachments/assets/596c3f85-1302-4ec0-ae4d-1678ad6234f7)
@@ -21,7 +18,7 @@ Se o objetivo é alto faturamento, vale a pena vender na Loja 1.
 2. ## 🛒Vendas por Categoria
   
 
-Análise da quantidade de produtos vendidos por categoria em cada loja.Conclusão:
+Análise da quantidade de produtos vendidos por categoria em cada loja.
 
 A categoria "Roupas" se destacou nas vendas da Loja 1.
 
@@ -40,7 +37,7 @@ Se o produto não for moda, considere outras lojas.
 3. ## ⭐Avaliação dos Clientes
   
 
-Gráfico mostra a média das avaliações dadas pelos clientes.Conclusão:
+Gráfico mostra a média das avaliações dadas pelos clientes.
 
 Loja 1 teve a melhor média de avaliação.
 
@@ -54,10 +51,9 @@ Se a reputação e satisfação do cliente são prioridade, evite a Loja 4.
 
 * * *
 
-4. ## 📦Produtos Mais e Menos Vendidos
+4. ## 📦Produtos Mais/Menos Vendidos
   
-
-Gráfico destaca os produtos de maior e menor desempenho por loja.Conclusão:
+Gráfico destaca os produtos de maior e menor desempenho por loja.
 
 Produto mais vendido em geral: Camiseta
 
@@ -109,7 +105,7 @@ Após avaliar o faturamento, categorias de vendas, avaliação dos clientes, fre
 
  Análise Estratégica – Loja 1 (RJ) 
 
-📈Loja com maior faturamento: A loja 1 se destaca em receita, o que indica uma boa aceitação no mercado. Vale a pena continuar investindo nela, melhorando ainda mais o atendimento e logística.
+📈A loja 1 se destaca em rentabilidade, o que indica uma boa aceitação no mercado. Vale a pena continuar investindo nela, melhorando ainda mais o atendimento e logística.
 
 
 Categoria mais forte: Móveis (465 vendas)
@@ -121,14 +117,14 @@ Categoria mais fraca: utilidades domesticas (171 vendas)
 
  Análise Estratégica – Loja 4 (MG) 
 
-📉Loja com menor faturamento:baixo diante das outras lojas, avaliação média dos clientes: 4.0 (aceitável, porém pode melhorar), frete baixo
+📉A loja4 possui menor faturaamento comparado a outras lojas e obteve baixa avaliação média dos clientes, porem o custo do frete é baixo, considerado como fator positivo. 
 
 Categoria mais forte: Móveis (480 vendas)
 
 Categoria mais fraca: Instrumentos musicais (170 vendas)
 
 
-##### ⚙️ Recomendação estratégica:
+##### ⚙️ Recomendação estratégica loja4:
 
 1. Investir em estratégias de fortalecimento (móveis):
 
@@ -151,17 +147,14 @@ Criar um programa de fidelidade ou brindes surpresa para clientes.
 
 Trabalhar no encantamento do cliente (para elevar a nota acima de 4,3).
 
-4. Reduzir ou otimizar custos com frete para maior competitividade.
-Negociar com transportadoras ou usar hubs logísticos regionais.
-
-Oferecer frete grátis acima de determinado valor para incentivar compras maiores.
+4. Oferecer frete grátis acima de determinado valor para incentivar compras maiores.
 
 Exibir o prazo e o custo de frete já na página do produto para transparência.
 
 ***
-Essas ações podem ser implementadas em fases, priorizando as que têm impacto mais direto no curto prazo, como campanhas de marketing e ajustes no frete.
+Essas ações podem ser implementadas em fases, priorizando as que têm impacto mais direto no curto prazo, como campanhas de marketing e outros ajustes.
 
-Embora o faturamento total da loja 4 seja baixo diante das outras lojas, a diferença entre categorias revela um desequilíbrio na performance dos produtos. A média de avaliação sugere que a loja está cumprindo seu papel, mas há margem para encantamento e fidelização.
+Embora o faturamento total da loja 4 seja baixo diante das outras lojas, a diferença entre categorias revela um desequilíbrio na performance dos produtos. A média de avaliação sugere que a loja está cumprindo seu papel, mas há margem para crescimento e fidelização.
 
 
 ![Captura de tela 2025-05-01 110525](https://github.com/user-attachments/assets/0161c25f-0f29-46a5-86ea-e6a058a36a15) ![Captura de tela 2025-05-01 110200](https://github.com/user-attachments/assets/e1689977-ecdf-45cc-bc17-d8009d6439bb)
@@ -172,9 +165,9 @@ Embora o faturamento total da loja 4 seja baixo diante das outras lojas, a difer
 ✅ Decisão recomendada ao Sr. João
 Mantenha a operação nas quatro lojas, mas com estratégias personalizadas para cada uma.
 
-Invista mais na loja de maior desempenho e melhore a logística da loja com frete alto e baixa avaliação.
+A loja4, possui o menor desempenho,  melhore o desempenho da loja, investindo em logística, campanhas e estragias que buscam captar novos clientes, embora pareça cotraditorio, isso pode gerar uma experiencia valorosa aos clientes e proporcionar mais vendas.
 
-Foque nas categorias de maior venda e otimize o mix de produtos com base nos dados.
+Potencialize as categorias de maior venda e otimize o mix de produtos com base nos dados.
 
 Utilize os insights como guia de marketing e estoque.
 
